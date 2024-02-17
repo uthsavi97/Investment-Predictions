@@ -1,1 +1,1 @@
-# Investment-Predictions
+# Stock Market Prediction Project
